@@ -1,0 +1,21 @@
+# Databases and Temporary uploads
+chroma_db/
+temp_uploads/
+chroma_db_backup.zip
+
+# Python caches and environments
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+venv/
+
+# Node/React dependencies and builds
+node_modules/
+dist/
+.vite/
+
+# Local Gemini logs and configurations
+.gemini/
+*.log
